@@ -94,7 +94,7 @@
             android:layout_height="90dip"
             android:layout_alignParentBottom="true"
             android:background="@drawable/repeat_bg"
-            android:orientation="vertical"></LinearLayout>
+            android:orientation="vertical"/>
         <!-- Footer Ends -->
     </RelativeLayout>
 </ScrollView>
